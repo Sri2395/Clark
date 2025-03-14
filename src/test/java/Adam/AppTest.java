@@ -38,6 +38,8 @@ public class AppTest {
 		long big= System.nanoTime();
 		long Execution= big - small;
 		System.out.println("Execution Ends: "+big);
+		System.out.println("Execution En: "+big);
+
 		
 		
 	}
