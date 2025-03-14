@@ -37,7 +37,7 @@ public class AppTest {
 	public void aftertime() {
 		long big= System.nanoTime();
 		long Execution= big - small;
-		System.out.println("Execution Ends: "+big);
+		
 		
 		
 	}
